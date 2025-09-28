@@ -1,6 +1,6 @@
 import React from "react";
 import UserCard from "./UserCard";
-import "../styles.css";
+
 
 function UserList({ users }) {
   return (
